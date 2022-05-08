@@ -1,2 +1,3 @@
 # SolidityLessons
-Solidity's lessons by Chainlink
+Solidity's lessons 
+
